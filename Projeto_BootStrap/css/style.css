@@ -15,4 +15,9 @@ body {
 .margin {
     padding-top: 30px;
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #ff5833cb;
 }
